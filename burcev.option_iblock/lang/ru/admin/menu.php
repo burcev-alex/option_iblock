@@ -1,0 +1,12 @@
+<?
+$MESS ['BURCEV_OPTION_IBLOCK_MENU_MAIN'] = "Настройки форм редактирования";
+$MESS ['BURCEV_OPTION_IBLOCK_MENU_BURCEV_OPTION_IBLOCKS'] = "Настройки форм редактирования";
+$MESS ['BURCEV_OPTION_IBLOCK_MENU_BURCEV_OPTION_IBLOCKS_ALT'] = "Список доступных настроек";
+$MESS ['BURCEV_OPTION_IBLOCK_MENU_SETTINGS'] = "Конфигурация";
+$MESS ['BURCEV_OPTION_IBLOCK_MENU_FILTER'] = "Фильтры";
+
+$MESS ['BURCEV_OPTION_IBLOCK_IMPORT_MENU_MAIN'] = "Импорт товаров";
+$MESS ['BURCEV_OPTION_IBLOCK_IMPORT_MENU_MAIN_TITLE'] = "Импорт товаров в формате CSV";
+$MESS ['BURCEV_OPTION_IBLOCK_IMPORT_MENU_SETTINGS'] = "CSV (товары тендера)";
+
+?>

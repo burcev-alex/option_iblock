@@ -1,6 +1,6 @@
 <?
-$MESS ['inst_module_name'] = "Настройки форм редактирования элементов инфоблока";
-$MESS ['inst_module_desc'] = "Надстройка, которая позволяет настраивать формы редактирования элементов инфоблока отдельно для каждого раздела в отдельности.";
-$MESS["PARTNER_NAME"] = "Alexander Burcev";
-$MESS["PARTNER_URI"] = "http://proit.net.ua/";
+$MESS ['inst_module_name'] = "Дополнительный функционал карточки пользователя";
+$MESS ['inst_module_desc'] = "Настройки форм редактирования карточки пользователя";
+$MESS["PARTNER_NAME"] = "Dmitruk Viktor";
+$MESS["PARTNER_URI"] = "http://google.com.ua/";
 ?>
